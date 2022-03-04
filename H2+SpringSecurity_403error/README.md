@@ -91,6 +91,6 @@ H2 를 사용할 때 SpringSecurity 를 사용하면 h2-console 접속 시 403 �
             database-platform: org.hibernate.dialect.H2Dialect
 
 
-- (+) [스프링시큐리티 Configuration 설정]('https://kimchanjung.github.io/programming/2020/07/02/spring-security-02/')
+- (+) [스프링시큐리티 Configuration 설정](https://kimchanjung.github.io/programming/2020/07/02/spring-security-02/)
   - 스프링 시큐리티의 여러가지 설정값들과 역할 정리 
 - (+) [스프링시큐리티 공식문서](https://docs.spring.io/spring-security/reference/)
