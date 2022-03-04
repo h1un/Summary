@@ -7,12 +7,12 @@
 
 이유는 pom.xml 을 이상하게 작성했기 때문이다. 
 
-<plugins> 과 <pluginManagement/>을 같이 썼다.
+`<plugins>` 과 `<pluginManagement/>`을 같이 썼다.
 
-생각해보니 <pluginManagement/> 을써서 못찾은건가 ??
+생각해보니 `<pluginManagement/>` 을 써서 못찾은건가 ??
 한번 테스트를 해보고 글을 수정해야겠다.
 
-중간에 삽질한 코드를 올려야 다음에 이해가 잘 될려나 ? 모르겠다.
+중간에 삽질한 코드를 올려야 다음에 이해가 잘 될려나 ? 모르겠다. 다음에 삽질코드와 저 블로그의 글을 정리해야겠다.
 
 고친 후 내 pom.xml
 
