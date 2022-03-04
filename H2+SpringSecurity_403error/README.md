@@ -61,7 +61,8 @@ H2 를 사용할 때 SpringSecurity 를 사용하면 h2-console 접속 시 403 �
         .permitAll()
     - 로그인 로그아웃은 모두 접근 가능
     
--   .csrf().disable()
+-       .csrf().disable()
+    
     - SpringSecurity에서는 Cross Site Request Forgery(CSRF)를 방지 장치가 기본으로 탑재되어 있다. 
 
 
