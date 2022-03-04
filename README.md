@@ -1,4 +1,5 @@
 # Summary
+사용법 정리 또는 오류 정리
 
 ### [🌈 GitHub-Actions 사용법 정리](https://github.com/h1un/GitHub-Actions/tree/main/GIHub_Actions_%EC%82%AC%EC%9A%A9%EB%B2%95)
 
