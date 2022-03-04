@@ -7,4 +7,4 @@
 H2 + SpringSecurity 같이 쓰기
 
 ### [😣 no main manifest attribute in 에러](https://github.com/h1un/Summary/tree/main/no_main_manifest_attribute_in_ERROR)
-글 보강 예정
+글 보강 필요
